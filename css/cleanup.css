@@ -1,4 +1,4 @@
-/* write your override styles here */
+ /* write your override styles here */
 #wall .tag-1 {
   display: none;
 }
@@ -19,5 +19,5 @@ div#wall #tag-3.slick.wicked{
   display:none;
 }
 
-div#wall
+div#wall .parent + .parent + .parent
 
